@@ -28,6 +28,7 @@ has plack_request => (
         unparsed_uri => 'request_uri',
         uri          => 'path',
         user         => 'user',
+        path_info    => 'path_info',
     },
 );
 
