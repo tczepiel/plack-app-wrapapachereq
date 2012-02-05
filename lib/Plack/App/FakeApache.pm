@@ -134,6 +134,8 @@ The following methods from L<Apache2::RequestRec> and mixins are supported:
 
 =item write
 
+=item path_info
+
 =back
 
 =head1 PLACK METHODS
